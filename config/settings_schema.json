@@ -1,11 +1,21 @@
 [
   {
+    "name": "test",
+    "settings": [
+      {
+        "type": "text",
+        "id": "datatext",
+        "label": "data text"
+      }
+    ]
+  },
+  {
     "name": "theme_info",
     "theme_name": "Dawn",
     "theme_version": "14.0.0",
     "theme_author": "Shopify",
-    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
     "name": "t:settings_schema.logo.name",
