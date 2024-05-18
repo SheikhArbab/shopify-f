@@ -372,5 +372,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".header__heading-logo-wrapper > img{border-radius:20px !important;}"
+    ]
   }
 }
